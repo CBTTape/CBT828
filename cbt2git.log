@@ -1,0 +1,5 @@
+2023-08-06 07:49:36.742426 - Initialized conversion of CBT828
+2023-08-06 07:49:36.767086 - Received CBT.V505.FILE828.PDS from FILE828.XMI 
+2023-08-06 07:49:36.769525 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE828.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:49:36.770580 - Found @FILE828.txt (text/plain) in CBT.V505.FILE828.PDS, moved to PDS/@FILE828
+2023-08-06 07:49:36.771699 - Found DELAY.jcl (text/plain) in CBT.V505.FILE828.PDS, moved to PDS/DELAY
