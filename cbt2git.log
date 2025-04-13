@@ -1,0 +1,4 @@
+2025-04-13 23:13:17.426880 - Received CBT.V508.FILE828.PDS from FILE828.XMI 
+2025-04-13 23:13:17.427475 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE828.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:13:17.427568 - Found @FILE828.txt (text/plain) in CBT.V508.FILE828.PDS, moved to PDS/@FILE828
+2025-04-13 23:13:17.427646 - Found DELAY.jcl (text/plain) in CBT.V508.FILE828.PDS, moved to PDS/DELAY
